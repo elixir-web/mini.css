@@ -12,13 +12,13 @@
 <html>
 <body>
     <div class="container">
-        <div class="span r1 left">R1</div>
-        <div class="span r11 right">R11</div>
+        <div class="r1 left">R1</div>
+        <div class="r11 right">R11</div>
     </div>
 
     <div class="container">
-        <div class="span r2 left">R2</div>
-        <div class="span r10 right">R10</div>
+        <div class="r2 left">R2</div>
+        <div class="r10 right">R10</div>
     </div>
 </body>
 </html
