@@ -1,0 +1,81 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { 
+     display: block;
+}
+
+.container {
+    clear : both;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 999px) {
+    .container {
+        width: 768px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 300px;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 420px;
+    }
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.r1 {
+    width: 9%;
+}
+
+.r2 {
+    width: 17%;
+}
+
+.r3 {
+    width: 25%;
+}
+
+.r4 {
+    width: 33%;
+}
+
+.r5 {
+    width: 41%;
+}
+
+.r6 {
+    width: 49%;
+}
+
+.r7 {
+    width: 57%;
+}
+
+.r8 {
+    width: 65%;
+}
+
+.r9 {
+    width: 73%;
+}
+
+.r10 {
+    width: 81%;
+}
+
+.r11 {
+    width: 89%
+}
+
+.r12 {
+    width: 100%
+}
