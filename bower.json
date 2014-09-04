@@ -1,0 +1,23 @@
+{
+  "name": "mini.css",
+  "version": "1.0.0",
+  "homepage": "http://0xax.github.io/mini.css/index.html",
+  "authors": [
+    "elixir-web <anotherworldofworld@gmail.com>"
+  ],
+  "description": "Very lightweight css grid",
+  "main": "mini.css",
+  "keywords": [
+    "css",
+    "grid",
+    "lightweight"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
